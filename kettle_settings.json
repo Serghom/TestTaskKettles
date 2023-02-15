@@ -1,0 +1,29 @@
+{
+  "kettles": [
+      {
+          "name": "Тот что по заданию",
+          "characteristics": {
+              "boiling_time": 10,
+              "switch_off_temp": 99,
+              "water_volume": 1
+          }
+      },
+      {
+          "name": "Всем чайникам - чайник!",
+          "characteristics": {
+              "boiling_time": 20,
+              "switch_off_temp": 95,
+              "water_volume": 4.5
+          }
+      },
+      {
+          "name": "110?! Чайник высокого давления!",
+          "characteristics": {
+              "boiling_time": 8,
+              "switch_off_temp": 110,
+              "water_volume": 3
+          }
+      }
+  ]
+}
+
